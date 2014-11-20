@@ -42,7 +42,7 @@ gem 'rails-html-sanitizer', '1.0.1'
 group :development, :test do
   gem 'byebug',      '3.4.0'
   gem 'web-console', '2.0.0.beta3'
-  gem 'spring'
+  
 end
 
 group :production do
